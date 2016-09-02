@@ -1,1 +1,1 @@
-nodemon app.js
+NODE_PATH=lib nodemon app.js
