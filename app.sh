@@ -1,1 +1,1 @@
-NODE_PATH=lib nodemon app.js
+NODE_PATH=lib npx nodemon app.js

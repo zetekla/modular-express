@@ -11,5 +11,8 @@
     "signup",
     "posts",
     "users"
-  ]
+  ],
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
 }
